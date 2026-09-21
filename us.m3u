@@ -323,6 +323,8 @@ https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-id="BPTV.us@SD" tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="Legislative",BPTV (360p)
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Bravo_2017_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Live TV (MoveOnJoy)",Bravo
+https://epidd.hundxvision.co.uk/main/secure/6358d40d9ee646a78d34d79d6dd37534b881a8a92cd40c19968b47a9373a09ff/1790041384/bravo-usa.m3u8
 #EXTINF:-1 tvg-id="BXArts.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Arts (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Culture (720p)
