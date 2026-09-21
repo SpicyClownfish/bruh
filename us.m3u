@@ -313,8 +313,14 @@ https://bloomberg.com/media-manifest/streams/qt.m3u8
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us@SD" tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="Legislative",Brevard Government Access TV (720p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
-#EXTINF:-1 tvg-id="Bravo.us@East" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo (720p)
-http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:3,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast8-v-4896-tx2/620e292cc21fa1ae22a82ccf29e4d5d6~tplv-tiktokx-origin.image?dr=9636&refresh_token=e5c9502a&x-expires=1790053200&x-signature=V8VuQuSqqtDTc19khLR3tT51IzU%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast8
+#EXTINF:3,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast5-v-5300-tx/19fce895a35c142721496272b12065f9~tplv-tiktokx-origin.image?dr=9636&refresh_token=fa9b72ec&x-expires=1790053200&x-signature=ce6PX89%2B547pQafIayXyt6AvJ1g%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast5
+#EXTINF:3,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast8-v-4896-tx2/c67babfad5434d372e419f8f3f1559e0~tplv-tiktokx-origin.image?dr=9636&refresh_token=16cc0ab4&x-expires=1790053200&x-signature=NsFEe0ya26Hb62Cao9xNzWUHoHE%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast8
+#EXTINF:3,
+https://p16-common-sign.tiktokcdn-us.com/tos-useast5-v-4896-tx/ec4ed36c7633931c0cdeebe169eec118~tplv-tiktokx-origin.image?dr=9636&refresh_token=0d440148&x-expires=1790053200&x-signature=XWdrxNKz3hIFmuu0%2Fp3k6XhI7pE%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=useast5
 #EXTINF:-1 tvg-id="Buzzr.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/0mk7F5ao.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Buzzr (1080p)
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 tvg-id="BPXTVRadio.us@SD" tvg-logo="https://i.imgur.com/86VXni8.jpeg" group-title="Music",BPX TV Radio
@@ -323,8 +329,6 @@ https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-id="BPTV.us@SD" tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="Legislative",BPTV (360p)
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Bravo_2017_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Live TV (MoveOnJoy)",Bravo
-https://epidd.hundxvision.co.uk/main/secure/6358d40d9ee646a78d34d79d6dd37534b881a8a92cd40c19968b47a9373a09ff/1790041384/bravo-usa.m3u8
 #EXTINF:-1 tvg-id="BXArts.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Arts (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Culture (720p)
