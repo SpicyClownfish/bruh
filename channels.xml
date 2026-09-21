@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="distro.tv" lang="en" xmltv_id="24HourFreeMovies.us" site_id="39730">24 Hour Free Movies (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="48Hours.us" site_id="PlutoTV/gb#6299e5afdd5833000727e795">48 Hours (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="50CentAction.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55">50 Cent Action (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="70sCinema.us" site_id="PlutoTV/us#5f4d878d3d19b30007d2e782">70s Cinema</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="80sRewind.us" site_id="PlutoTV/us#5ca525b650be2571e3943c63">80s Rewind</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="90sThrowback.us" site_id="PlutoTV/us#5f4d86f519358a00072b978e">90s Throwback</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AE.us" site_id="9200004889">A&amp;E (720p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="ABC.us" site_id="us#69048344/abc">ABC (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ACCDigitalNetwork.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1">ACC Digital Network (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="ACCNetwork.us" site_id="us#7224220194/acc-network">ACC Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AccuWeatherNOW.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01">AccuWeather NOW (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AfroLandTV.us" site_id="Plex/au#697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c">AfroLandTV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AllRealitybyWEtv.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec">All Reality by WE tv (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AllWeddingsWEtv.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4">All Weddings WE tv</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ALLBLKGems.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-628bb0eafcb403aa62d2317d">ALLBLK Gems (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AlwaysFunnyVideos.us" site_id="Roku/all#86c08261fc015a58866210bea63eb8f4">Always Funny Videos (720p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="AMC.us" site_id="us#69047124/amc-east">AMC (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AmericasTestKitchen.us" site_id="PlutoTV/us#5e84f54a82f05300080e6746">America's Test Kitchen (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AmericasVoice.us" site_id="Roku/all#d748045d77105901b8e25fcc34aa9e2f">America's Voice (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AmericasVoiceNews.us" site_id="PlutoTV/us#5e1f7da4bc7d740009831259">America's Voice News (720p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMP2.us" site_id="amp2/13283">AMP 2 (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AngerManagementChannel.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6303ca568a01b5d4dae57d0e">Anger Management Channel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AnimationPlus.us" site_id="Plex/au#697140a85d851f5e69414688-674f6a6cf44561420465f9f3">Animation+ (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AnimexHIDIVE.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf">Anime x HIDIVE</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AntiquesRoadTrip.us" site_id="Plex/au#697140a85d851f5e69414688-65d907f49c7a6da8c3ce57e9">Antiques Road Trip (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AntiquesRoadshowUK.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-630902bf0417b7074a4ad95c">Antiques Roadshow UK (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AreWeThereYet.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-612919784f53e1002c9aa219">Are We There Yet? (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AsianCrush.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5eea605474085f0040ddc767">AsianCrush (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AtHomewithFamilyHandyman.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1">At Home with Family Handyman (720p)</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="AutenticHistory.de" site_id="931186243466302968">Autentic History (1080p)</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="AutenticTravel.de" site_id="931186243466302967">Autentic Travel (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AWE.us" site_id="44895">AWE (720p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AXSTV.us" site_id="92053">AXS TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BabySharkTV.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137">Baby Shark TV (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="BabyFirst.us" site_id="50338">BabyFirst (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Backstage.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-608aec5fa09205002da4f28f">Backstage (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BarRescue.us" site_id="PlutoTV/us#60a3d889a5b3690008dc7fe8">Bar Rescue</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Baywatch.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63e63f20abacad42ed3d1acf">Baywatch (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="BBCAmerica.us" site_id="us#69044423/bbc-america-east">BBC America (720p)</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="BBCEarth.uk" site_id="452">BBC Earth US (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BBCFood.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e">BBC Food (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BBCHomeGarden.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb">BBC Home &amp; Garden (1080p)</channel>
+  <channel site="beinsports.com" lang="en" xmltv_id="beINSPORTSXTRA.us" site_id="1ACADCF1-DFAC-480B-872C-53D51FE1B45D">beIN SPORTS XTRA (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BellatorMMA.us" site_id="PlutoTV/us#5ebc8688f3697d00072f7cf8">Bellator MMA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BestofDrPhil.us" site_id="PlutoTV/us#60f760bbdf090700075d7bfe">Best of Dr Phil</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BETClassicsPlutoTV.us" site_id="PlutoTV/us#60f85644a9493e0007a1f035">BET Classics Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BETPlutoTV.us" site_id="PlutoTV/us#5ca670f6593a5d78f0e85aed">BET Pluto TV (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BeverlyHillbillies.us" site_id="PlutoTV/us#5f7796e470510900070d4e3d">Beverly Hillbillies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BeverlyHills90210.us" site_id="PlutoTV/us#5f4d83e0a382c00007bc02e7">Beverly Hills 90210 (United States)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="us#69030398/big-ten-network-national">Big Ten Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BilliardTV.us" site_id="Plex/au#697140a85d851f5e69414688-6334a8e48a7b2a349d903b8c">Billiard TV (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BlackInkCrew.us" site_id="PlutoTV/us#5d51e2bceca5b4b2c0e06c50">Black Ink Crew</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BlazeLive.us" site_id="PlutoTV/us#5e46fba0c43b0d00096e5ac1">Blaze Live (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BloombergOriginals.us" site_id="Flash/epg#quicktake">Bloomberg Originals (1080p)</channel>
+  <channel site="bein.com" lang="en" xmltv_id="BloombergTV.us" site_id="entertainment#22">Bloomberg TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BlueBloods.us" site_id="PlutoTV/us#61b3b8c645b45d0007a9bb8d">Blue Bloods (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="bonappetit.us" site_id="Roku/all#bab0626ab5655e569790befb4522806a">bon appetit (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="Bounce.us" site_id="us#69043286/bounce-tv">Bounce (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BounceXL.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a">Bounce XL (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BratTV.us" site_id="Plex/au#697140a85d851f5e69414688-63d6f6c5a9e88ee909e7ee1f">Brat TV (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Bravo.us" site_id="9200002886">Bravo (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BritBoxMysteries.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-639a0b83812b6c1429f7acd1">BritBox Mysteries (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="BusinessRockstars.us" site_id="42160">Business Rockstars (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Buzzr.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40">Buzzr (1080p)</channel>
+  <channel site="mi.tv" lang="es" xmltv_id="BYUTV.us" site_id="pe#byutv">BYU TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CampSpoopy.us" site_id="Plex/au#697140a85d851f5e69414688-6164a963766ab4f9f57e81b1">Camp Spoopy (576p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CartoonNetwork.us" site_id="9200004848">Cartoon Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CBS.us" site_id="9200018514">CBS (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNews247.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196">CBS News 24/7 (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsBaltimore.us" site_id="PlutoTV/us#60f75919718aed0007250d7a">CBS News Baltimore (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsBayArea.us" site_id="PlutoTV/us#5eb1afb21486df0007abc57c">CBS News Bay Area (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsBoston.us" site_id="PlutoTV/us#5eb1af2ad345340008fccd1e">CBS News Boston (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsChicago.us" site_id="PlutoTV/us#5eb1aeb2fd4b8a00076c2047">CBS News Chicago (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsColorado.us" site_id="PlutoTV/us#5eb1b12146cba40007aa7e5d">CBS News Colorado (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsDetroit.us" site_id="PlutoTV/us#634f2610d5023700078f7dee">CBS News Detroit (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsLosAngeles.us" site_id="PlutoTV/us#5dc9b875e280c80009a8a44a">CBS News Los Angeles (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsMiami.us" site_id="PlutoTV/us#60fb299b79498900070b29e0">CBS News Miami (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsMinnesota.us" site_id="PlutoTV/us#5eb1b0bf2240d8000732a09c">CBS News Minnesota (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsNewYork.us" site_id="PlutoTV/us#5dc9b8223687ff000936ed79">CBS News New York (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsPhilly.us" site_id="PlutoTV/us#5eb1b05ea168cc000767ba67">CBS News Philly (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsPittsburgh.us" site_id="PlutoTV/us#5eb1b17aa5277e00083f6521">CBS News Pittsburgh (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsSacramento.us" site_id="PlutoTV/us#60cb6df2b2ad610008cd5bea">CBS News Sacramento (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSSportsGolazoNetwork.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd">CBS Sports Golazo Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSSportsHQ.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-657107dc56226238740fcc2d">CBS Sports HQ (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CelebrityNameGame.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e">Celebrity Name Game (1080p) [Geo-blocked]</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Charge.us" site_id="charge/15228">Charge! (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CheddarNews.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af">Cheddar News (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Choppertown.us" site_id="Plex/au#697140a85d851f5e69414688-5ef11487d33ab9004048a1d3">Choppertown (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="CinePride.us" site_id="42161">CinePride (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Cinevault80s.us" site_id="Roku/all#c490011275a8562b87366dbf80b62af2">Cinevault 80s (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CinevaultWesterns.us" site_id="Roku/all#7ef5e16ef5d95718b8e14b7bd657fa81">Cinevault Westerns (540p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Circle.us" site_id="Roku/all#f208a84047865b16820dd7110ec2e17f">Circle (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Clarity4K.us" site_id="SamsungTVPlus/us#USBA3800005NI">Clarity 4K (2160p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicMoviesChannel.us" site_id="PlutoTV/us#561c5b0dada51f8004c4d855">Classic Movies Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicTVComedy.us" site_id="PlutoTV/us#5f15e32b297f96000768f928">Classic TV Comedy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicTVDrama.us" site_id="PlutoTV/us#5f15e3cccf49290007053c67">Classic TV Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicTVFamilies.us" site_id="PlutoTV/ca#62e91af00c43540007f2bb43">Classic TV: Families</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Classica.us" site_id="PlutoTV/us#5f779951372da90007fd45e8">Classica (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CMT.us" site_id="9200012085">CMT (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CMTEqualPlay.us" site_id="PlutoTV/us#5f68f53eb1e5800007390bf8">CMT Equal Play (720p)</channel>
+  <channel site="starhubtvplus.com" lang="en" xmltv_id="CNBC.us" site_id="173fc873-1c01-4782-b0ee-f322fe23ef33">CNBC (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ColdCaseFiles.us" site_id="PlutoTV/us#5c37d6712de254456f7ec340">Cold Case Files (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ComedyCentral.us" site_id="9200000657">Comedy Central (United States) (576p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ComedyCentralPlutoTV.us" site_id="PlutoTV/us#5ca671f215a62078d2ec0abf">Comedy Central Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ComedyDynamics.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76">Comedy Dynamics (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="Comet.us" site_id="us#1922365932/comet-tv">Comet (1080p)</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ConcertChannel.us" site_id="concert_channel">Concert Channel (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CookingPanda.us" site_id="Plex/au#697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda">Cooking Panda (576p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Cops.us" site_id="Plex/au#697140a85d851f5e69414688-626c1753ffda6789d20a452e">Cops (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CourtTV.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8">Court TV (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Create.us" site_id="48990">Create (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Crime360.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41">Crime 360 (720p)</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.us" site_id="212">Crime + Investigation (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Crunchyroll.us" site_id="Roku/all#307b3b9ea321539b9688148fc97a8bfd">Crunchyroll (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CSI.us" site_id="PlutoTV/us#5efbd29e4aa26700076c0d06">CSI (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CuriosityNOW.de" site_id="Plex/us#5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240">Curiosity NOW EN (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CW.us" site_id="51306">CW KATU (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DangerTV.us" site_id="Roku/all#447d63b6da208bb796b69f0383c474a1">Danger TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DarkMatterTV.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6">Dark Matter TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Dateline247.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5fc70600598c41002da3dd19">Dateline 24/7 (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DealorNoDeal.us" site_id="Plex/au#697140a85d851f5e69414688-66855a2a714fe577eb7db920">Deal or No Deal (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Degrassi.us" site_id="Plex/au#697140a85d851f5e69414688-636d5aa3dc2c550b145ed422">Degrassi (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DesignatedSurvivor.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-66aa9b7fd8fc59729226073e">Designated Survivor (1080p) [Geo-blocked]</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DisneyChannel.us" site_id="9200018475">Disney Channel (United States) (720p) [Geo-blocked]</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DisneyJunior.us" site_id="9233009788">Disney Junior (United States) (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DisneyXD.us" site_id="9200004852">Disney XD (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DoctorWhoClassic.us" site_id="PlutoTV/us#5ce4475cd43850831ca91ce7">Doctor Who Classic (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DocumentaryPlus.us" site_id="Plex/au#697140a85d851f5e69414688-614e286b2bac097ffd6fd6ab">Documentary+ (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Docurama.us" site_id="110479">Docurama (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DogtheBountyHunter.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6729199a7f55143b23b66c4d">Dog the Bounty Hunter (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DontTellTheBride.uk" site_id="Plex/ca#647f8d22a2fc3fadb4721685-635847d0d3a668f1cafc1f9d">Don't Tell The Bride (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DoveChannel.us" site_id="Roku/all#d93912b4b21158fd95af2ceb8979c586">Dove Channel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DraftKingsNetwork.us" site_id="Roku/all#5976983fa00953dab911a0ebea932943">DraftKings Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DryBarComedyPlus.us" site_id="SamsungTVPlus/us#USAJ30000039U">Dry Bar Comedy+ (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="DungeonTV.us" site_id="42162">Dungeon TV (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="E.us" site_id="9200012343">E! East (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EKeepingUp.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-645e328e3ea1d2d705ef8ab2">E! Keeping Up (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EbonyTVbyLionsgate.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6533de63bd43e1c8b1865152">Ebony TV by Lionsgate (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ElectricNow.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f170d61b898490041b49360">Electric Now (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EntertainmentTonight.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158">Entertainment Tonight (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="ESPNews.us" site_id="us#69031480/espn-news-hdtv">ESPNews (720p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="ESPNU.us" site_id="us#69026524/espnu">ESPNU (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="F1Channel.ie" site_id="Plex/us#5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a">F1 Channel (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FailArmy.us" site_id="Plex/au#697140a85d851f5e69414688-5f170d62b898490041b4936e">FailArmy (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FamilyTies.us" site_id="PlutoTV/us#5f77939a630f530007dde654">Family Ties (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Farscape.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-635195e9ccee3e1547a8831a">Farscape</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FastTV.us" site_id="PlutoTV/us#6400f731d200410008f9b339">Fast TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FearFactor.us" site_id="Plex/au#697140a85d851f5e69414688-651600fb2ff655e77635c62a">Fear Factor (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FIFAPlus.uk" site_id="Plex/gb#64305451fc3be5947773c339-66628c68346b86608532dbcf">FIFA+ United States (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FilmRiseForensicFiles.us" site_id="Roku/all#62945e18ab825bfd8b4995d9bd14917b">FilmRise Forensic Files (720p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FlicksofFury.us" site_id="PlutoTV/us#58e55b14ad8e9c364d55f717">Flicks of Fury</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ForensicFiles.us" site_id="Plex/au#697140a85d851f5e69414688-68db6db222efe0c218a90a9d">Forensic Files</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ForeverKids.us" site_id="PlutoTV/us#56171fafada51f8004c4b40f">Forever Kids</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Fox.us" site_id="9233002271">Fox (United States) (720p)</channel>
+  <channel site="guidatv.sky.it" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="DTH#6741">Fox Business Network (720p)</channel>
+  <channel site="foxtel.com.au" lang="en" xmltv_id="FoxNewsChannel.us" site_id="FOX-News/FNC">Fox News Channel (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FoxSoul.us" site_id="Roku/all#bdf6b34e48585f588789f7e7857a84a6">Fox Soul (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">Fox Sports 1 (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FoxWeather.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17">Fox Weather (720p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FreeSpeechTV.us" site_id="16220">Free Speech TV (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Freeform.us" site_id="9200006942">Freeform (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="FrightFlix.us" site_id="42164">FrightFlix (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FTFSports.us" site_id="Plex/au#697140a85d851f5e69414688-605a309dc5acdc002c7a20aa">FTF Sports (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FuboSportsNetwork.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37">Fubo Sports Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FunnyAF.us" site_id="PlutoTV/gb#65a6a5e90c7ff50008cb9815">Funny AF (United States)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Fuse.us" site_id="9233011488">Fuse (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FX.us" site_id="9200006932">FX (United States) (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="GalxyTV.us" site_id="42165">Galxy TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GameShowCentral.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782">Game Show Central (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="GameShowNetwork.us" site_id="9200019858">Game Show Network (720p) [Not 24/7]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GarfieldandFriends.us" site_id="PlutoTV/us#60faf9ddfcc1f200070a5932">Garfield and Friends</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GirlfriendsFilms.us" site_id="PlutoTV/gb#66ba1e4446762a000855cd87">Girlfriends Films</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GordonRamsaysHellsKitchen.us" site_id="PlutoTV/us#5b4e99f4423e067bd6df6903">Gordon Ramsay's Hell's Kitchen (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GoTraveler.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2">GoTraveler (720p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GoUSATV.us" site_id="Plex/au#697140a85d851f5e69414688-60a9d105d162b9002d05a60c">GoUSA TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GravitasMovies.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e">Gravitas Movies (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GritXtra.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25">Grit Xtra (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GrjngoWesternMovies.de" site_id="Plex/au#697140a85d851f5e69414688-63489a771159f6a5ce819b7b">Grjngo Western Movies (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Gunsmoke.us" site_id="PlutoTV/gb#68503d1736c9361b191e7d89">Gunsmoke</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HallmarkChannel.us" site_id="9200016034">Hallmark Channel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HallmarkMoviesMore.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514">Hallmark Movies &amp; More (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HappyDays.us" site_id="PlutoTV/us#5f7794162a4559000781fc12">Happy Days (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HauntTV.ca" site_id="Plex/ca#647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629">HauntTV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Heartland.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-679425abf343fe9fe16c47a7">Heartland (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HiYAH.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30">Hi-YAH! (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="History.us" site_id="9233008002">History (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HistoryHit.uk" site_id="Plex/au#697140a85d851f5e69414688-5f74cf83ffbe690040689f50">History Hit (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HollyWire.us" site_id="SamsungTVPlus/us#USBC2400015DO">HollyWire (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HomeMadeNation.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47">Home.Made.Nation (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Homeful.ca" site_id="Plex/ca#647f8d22a2fc3fadb4721685-646c0b34432016306ec0a086">Homeful US (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HumorMill.us" site_id="Plex/au#697140a85d851f5e69414688-5fd115b7b7ef8d002dcf1814">like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0&quot; group-title=&quot;Comedy&quot;,Humor Mill (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Hungry.us" site_id="SamsungTVPlus/us#USAJ2200009C2">Hungry (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="iCarly.us" site_id="PlutoTV/us#6450209d939a5900084dba1d">iCarly (United States) SD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="IFC.us" site_id="9200004303">IFC (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ImpossibleQuizShow.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959">Impossible Quiz Show (1080p)</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="INFAST.nl" site_id="878085677857115004">INFAST (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="InkMaster.us" site_id="PlutoTV/us#60807fd5db701400078219c2">Ink Master</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="InstantSaga.us" site_id="PlutoTV/fr#60549e98061b5f000776866a">Instant Saga</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="INWILD.nl" site_id="910031136947176350">INWILD (1080p)</channel>
+  <channel site="ionplustv.com" lang="en" xmltv_id="IONPlus.us" site_id="#">ION Plus (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="IONTV.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b">ION TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="IronChef.us" site_id="Plex/gb#64305451fc3be5947773c339-64d7923c950759afa2523eef">Iron Chef</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JerseyShore.us" site_id="PlutoTV/us#609bfa51fbecc1000733152e">Jersey Shore (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JohnnyCarsonTV.us" site_id="Plex/au#697140a85d851f5e69414688-60d4edd6b2fdec002c141123">Johnny Carson TV (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="Journy.us" site_id="55457">Journy (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JudgeNosey.us" site_id="Plex/au#697140a85d851f5e69414688-5f0ff262d71dcb00449ec018">Judge Nosey (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JustforLaughsGags.us" site_id="Plex/au#697140a85d851f5e69414688-64704954e536e0faaf10be9f">Just for Laughs Gags (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KartoonChannel.us" site_id="PlutoTV/us#60fb040d4795a6000762fe8f">Kartoon Channel! (1080p)</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="KetchupTV.us" site_id="64257#16200">Ketchup TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KevinHartsLOLNetwork.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310">Kevin Hart's LOL! Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KidsFlix.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797">KidsFlix (1080p) [Not 24/7]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KIIOLD101.us" site_id="73580">KIIO-LD 10.1</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="KNXVTV611.us" site_id="6577ab54f8a8e7d24bc86ed3">KNXV-TV 61.1 (720p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Laff.us" site_id="laff--network-hd/20170">Laff (576p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LATV.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6685a97b59703916799193a5">LATV (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LawCrime.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d">Law &amp; Crime (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LEGOKidsTV.us" site_id="PlutoTV/us#60fb01a24795a6000762fe83">LEGO Kids TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Lifetime.us" site_id="9200020452">Lifetime (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="LifetimeMovies.us" site_id="9233009825">Lifetime Movies (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LittleStarsUniverse.us" site_id="PlutoTV/us#51c75f7bb6f26ba1cd00002f">Little Stars Universe</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LiveNOWfromFOX.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695">LiveNOW from FOX (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Localish.us" site_id="Roku/all#8b77c262c90652658b21fdb9ee292ab7">Localish (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LogoPlutoTV.us" site_id="PlutoTV/us#5ce5a8954311f992edbe1da2">Logo Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LoneStar.us" site_id="Plex/au#697140a85d851f5e69414688-6196c9241d310bf925e02616">Lone Star (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LoveHipHop.us" site_id="PlutoTV/us#5d51ddf0369acdb278dfb05e">Love &amp; Hip Hop</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LovePets.ca" site_id="Plex/us#5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3">Love Pets (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LoveThePlanet.es" site_id="Roku/all#8ad68e46b0d35e61a7787b7042b61eb0">Love The Planet (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LuckyDog.us" site_id="SamsungTVPlus/us#USBA3000044BJ">Lucky Dog (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MadeInHollywood.us" site_id="Plex/au#697140a85d851f5e69414688-60db63d29ec966002c9ea6f0">Made In Hollywood</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MagellanTVNow.us" site_id="SamsungTVPlus/us#USAJ340000677">MagellanTV Now (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Matlock.us" site_id="PlutoTV/gb#6850426e53d981d1fdb0d966">Matlock (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MaverickBlackCinema.us" site_id="Plex/au#697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430">Maverick Black Cinema (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MeTV.us" site_id="MeTV/epg#metv">MeTV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MidnightPulp.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c4427">Midnight Pulp (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MidsomerMurders.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63d6fc71a9e88ee909e7ee23">Midsomer Murders (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MissionImpossible.us" site_id="PlutoTV/gb#62ab579258cb950007811aad">Mission Impossible (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MLB.us" site_id="PlutoTV/us#5e66968a70f34c0007d050be">MLB (720p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MLBStrikeZone.us" site_id="80404">MLB Strike Zone (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MNT.us" site_id="9233001847">MNT WCIV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MoreTVDrama.us" site_id="PlutoTV/us#613260e4bdb71c00070d63fa">More TV Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MoreTVSitcoms.us" site_id="PlutoTV/us#6132619f9ddaa50007e7dd86">More TV Sitcoms</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MovieSphere.us" site_id="Plex/au#697140a85d851f5e69414688-6623c78128a167c6e5b3079c">MovieSphere (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MrBeanAnimated.uk" site_id="Plex/au#697140a85d851f5e69414688-66a2e7fe94b6a49cb5054d7b">Mr Bean Animated (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MSNOW.us" site_id="Flash/epg#msnbc">MS NOW (720p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSG.us" site_id="msg-madison-square-gardens-hd/4695">MSG (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MST3K.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddbb2fdec002c141133">MST3K (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MTV2.us" site_id="9200000872">MTV2 (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MTV.us" site_id="9200014754">MTV (United States) (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVBiggestPop.us" site_id="PlutoTV/us#5d14fd1a252d35decbc4080c">MTV Biggest Pop (1080p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MTVLive.us" site_id="mtv-live-hd/6081">MTV Live (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVPlutoTV.us" site_id="PlutoTV/us#5ca672f515a62078d2ec0ad2">MTV Pluto TV (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVSpankinNew.us" site_id="PlutoTV/us#5d14fdb8ca91eedee1633117">MTV Spankin' New (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MysteryScienceTheater3000.us" site_id="113781">Mystery Science Theater 3000 (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MyTimeMovieNetworkEast.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-644875d7af92c31f4a190bc2">MyTime Movie Network East (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Naruto.us" site_id="PlutoTV/us#5da0c85bd2c9c10009370984">Naruto (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NashBridges.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6668b69889c051b3733f9b60">Nash Bridges (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NationalGeographic.us" site_id="9233002310">National Geographic (United States) (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NationalGeographicWild.us" site_id="9200004683">National Geographic Wild (United States) HD East (720p)</channel>
+  <channel site="m.tv.sms.cz" lang="en" xmltv_id="NBATV.us" site_id="NBA+SD">NBA TV (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NBC.us" site_id="9233009876">NBC (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCComedyVault.us" site_id="Roku/all#4b631847108256fd8c77f6ba3bf3af03">NBC Comedy Vault (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCNewsNOW.us" site_id="Flash/epg#nbc-news-now">NBC News NOW (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCSportsNOW.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43">NBC Sports NOW (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCLX.us" site_id="SamsungTVPlus/us#USBB40000028E">NBCLX (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Bronx.us" site_id="18580">News12 Bronx [Geo-blocked]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Brooklyn.us" site_id="46292">News12 Brooklyn [Geo-blocked]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Conneticut.us" site_id="27512">News12 Conneticut [Geo-blocked]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12HudsonValley.us" site_id="46640">News12 Hudson Valley [Geo-blocked]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12LongIsland.us" site_id="10999">News12 Long Island (1080p) [Geo-blocked]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12NewJersey.us" site_id="16143">News12 New Jersey [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="News12NewYork.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5fc6f3a62b6f7b002e77ffaa">News12 New York (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Westchester.us" site_id="12309">News12 Westchester [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Newsmax2.us" site_id="Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335">Newsmax 2 (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="NewsmaxTV.us" site_id="27440">Newsmax TV (720p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Newsy.us" site_id="96827">Newsy (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NFLChannel.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f">NFL Channel (720p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="NFLNetwork.us" site_id="us#69023748/the-nfl-network">NFL Network (720p)</channel>
+  <channel site="nhl.com" lang="en" xmltv_id="NHLNetwork.us" site_id="network">NHL Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NHRATV.us" site_id="Plex/au#697140a85d851f5e69414688-60aeb5cd87f9b1002ce12323">NHRA TV (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NickJr.us" site_id="9233007153">Nick Jr. (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NickJrPlutoTV.us" site_id="PlutoTV/ca#62bdb75c3afd1200079146a6">Nick Jr. Pluto TV (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Nickelodeon.us" site_id="9200006939">Nickelodeon (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NickelodeonPlutoTV.us" site_id="PlutoTV/us#5ca673e0d0bd6c2689c94ce3">Nickelodeon Pluto TV (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Nicktoons.us" site_id="9200020469">Nicktoons (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NinjaKidzTV.us" site_id="Plex/au#697140a85d851f5e69414688-627ec46a92d8e6a705784bd1">Ninja Kidz TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Nosey.us" site_id="Plex/au#697140a85d851f5e69414688-5f0ff262d71dcb00449ec015">Nosey (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="OANPlus.us" site_id="34008">OAN Plus (1080p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="OneAmericaNewsNetwork.us" site_id="one-america-news-network/12614">One America News Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="OnePiece.us" site_id="PlutoTV/us#5f7790b3ed0c88000720b241">One Piece</channel>
+  <channel site="m.tv.sms.cz" lang="en" xmltv_id="OutdoorChannel.us" site_id="Outdoor+Channel">Outdoor Channel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="OuterSphere.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a">OuterSphere (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="OutsideTV.us" site_id="15976">Outside TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Overtime.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-62a388865440744efae8e243">Overtime (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Oxygen.us" site_id="9200004949">Oxygen (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Pac12Insider.us" site_id="Plex/au#697140a85d851f5e69414688-646c0dfbfb58444e4e1e262d">Pac-12 Insider (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ParamountMovieChannel.us" site_id="PlutoTV/us#5cb0cae7a461406ffe3f5213">Paramount Movie Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ParamountNetwork.us" site_id="9233013810">Paramount Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ParamountPlusPicks.us" site_id="PlutoTV/us#5ff8c708653d080007361b14">Paramount+ Picks</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBRRidePass.us" site_id="PlutoTV/us#60d39387706fe50007fda8e8">PBR RidePass (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="PBS.us" site_id="9233004141">PBS (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBSAntiquesRoadshow.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6348ac7090b96ef5e0eb3288">PBS Antiques Roadshow (1080p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PBSKids.us" site_id="pbs-kids-247/31867">PBS Kids (720p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PBSKidsEasternCentral.us" site_id="101364">PBS Kids Eastern/Central (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBSNature.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f">PBS Nature (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBSTravel.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc">PBS Travel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PeopleAreAwesome.us" site_id="Plex/au#697140a85d851f5e69414688-5f0ff263d71dcb00449ec021">People Are Awesome (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PerryMason.us" site_id="PlutoTV/us#6197086891ddd4000739941a">Perry Mason (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PGATour.us" site_id="Plex/au#697140a85d851f5e69414688-68017ed20268b77d02a5f4bd">PGA Tour (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PixLTV.us" site_id="70113">PixL TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAction.us" site_id="PlutoTV/us#561d7d484dc7c8770484914a">Pluto TV Action (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAdventure.us" site_id="PlutoTV/ca#653bdb0fbdf3cf00089cc395">Pluto TV Adventure</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAnime.us" site_id="PlutoTV/ca#68d25b620a0f3829b116bb6f">Pluto TV Anime (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAnimeMovies.us" site_id="PlutoTV/us#67ed8f7e443f0671bc2b2368">Pluto TV Anime Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVBackcountry.us" site_id="PlutoTV/us#5cabdf1437b88b26947346b2">Pluto TV Backcountry</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCars.us" site_id="PlutoTV/ca#69c592dff0f1a7d732dc6e36">Pluto TV Cars</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVComedy.us" site_id="PlutoTV/ca#62e92178946c8000079a3160">Pluto TV Comedy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCompetition.us" site_id="PlutoTV/us#603fde9026ecbf0007752c2c">Pluto TV Competition</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCrimeDrama.us" site_id="PlutoTV/ca#62e92708a7ce600007b2676a">Pluto TV Crime Drama (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCrimeMovies.us" site_id="PlutoTV/us#5f4d8594eb979c0007706de7">Pluto TV Crime Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCultFilms.us" site_id="PlutoTV/us#5c665db3e6c01b72c4977bc2">Pluto TV Cult Films (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVDrama.us" site_id="PlutoTV/us#5b4e92e4694c027be6ecece1">Pluto TV Drama (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVFantastic.us" site_id="PlutoTV/us#5b64a245a202b3337f09e51d">Pluto TV Fantastic</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVGameShows.us" site_id="PlutoTV/us#6036e7c385749f00075dbd3b">Pluto TV Game Shows</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVHistory.us" site_id="PlutoTV/us#5a4d35dfa5c02e717a234f86">Pluto TV History (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVHometownDrama.us" site_id="PlutoTV/us#69d6c7befde57cd5ba0160c3">Pluto TV Hometown Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVHorror.us" site_id="PlutoTV/ca#62ea3f8a38acc80007072d26">Pluto TV Horror (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVIcons.us" site_id="PlutoTV/us#64b585f84ea480000838e446">Pluto TV Icons</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVLives.us" site_id="PlutoTV/us#5d8beeb39b5d5d5f8c672530">Pluto TV Lives</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVMilitary.us" site_id="PlutoTV/us#5bb3fea0f711fd76340eebff">Pluto TV Military</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVParanormal.us" site_id="PlutoTV/ca#62e92a58f3e4290007290c96">Pluto TV Paranormal (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVReaction.us" site_id="PlutoTV/us#617b37b361e0fd0008cfd8c5">Pluto TV Reaction</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVReality.us" site_id="PlutoTV/ca#67922858b83355184c699699">Pluto TV Reality (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVRomance.us" site_id="PlutoTV/us#5a66795ef91fef2c7031c599">Pluto TV Romance (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVSciFi.us" site_id="PlutoTV/ca#66166cb1307fa30008f275e7">Pluto TV Sci-Fi (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVScience.us" site_id="PlutoTV/us#563a970aa1a1f7fe7c9daad7">Pluto TV Science (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVSpotlight.us" site_id="PlutoTV/us#5ba3fb9c4b078e0f37ad34e8">Pluto TV Spotlight</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVStaffPicks.us" site_id="PlutoTV/us#5f4d863b98b41000076cd061">Pluto TV Staff Picks</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTerror.us" site_id="PlutoTV/us#5c6dc88fcd232425a6e0f06e">Pluto TV Terror</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTheTwilightZone.us" site_id="PlutoTV/us#67352ed93a61d4000881f9fa">Pluto TV The Twilight Zone</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVThrillers.us" site_id="PlutoTV/us#5b4e69e08291147bd04a9fd7">Pluto TV Thrillers (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTrendingNow.us" site_id="PlutoTV/us#673247127d5da5000817b4d6">Pluto TV Trending Now</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTrueCrime.us" site_id="PlutoTV/ca#62e9289f8d467f0007fbc701">Pluto TV True Crime (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVWesterns.us" site_id="PlutoTV/ca#62bdacc96a3751000811842d">Pluto TV Westerns (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PokerGo.us" site_id="Plex/au#697140a85d851f5e69414688-64ac687b4192b4e1bab96279">PokerGo</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Portlandia.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512">Portlandia (720p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PositivTV.us" site_id="positiv/4456">Positiv TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PowerNationTV.us" site_id="Plex/au#697140a85d851f5e69414688-69814bbff871095eafc65925">PowerNation TV (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PursuitChannel.us" site_id="60111">Pursuit Channel (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PursuitUP.us" site_id="Plex/au#697140a85d851f5e69414688-63628eb88e4b18ca22f897dc">PursuitUP (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RainbowRuby.us" site_id="Roku/all#85f1333ff9065bf2923c8fa5eee50036">Rainbow Ruby (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="RealAmericasVoice.us" site_id="64501">Real America's Voice (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RealWild.uk" site_id="Plex/au#697140a85d851f5e69414688-63584a0cf8e2be1350f802a4">Real Wild (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RedBullTV.at" site_id="Roku/all#c5e8a74546771de365652cd053f73351">Red Bull TV US (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Reelz.us" site_id="9200011769">Reelz (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RetroCrush.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a">RetroCrush (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RevandRoll.us" site_id="Roku/all#f1584888a8625b1abf77aecb4690abe0">Rev and Roll (720p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Revolt.us" site_id="revolt-tv/11301">Revolt (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="Revry.us" site_id="43912">Revry (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="RFDTV.us" site_id="25148">RFD-TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RiffTrax.us" site_id="PlutoTV/us#58d947b9e420d8656ee101ab">RiffTrax (720p)</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Runtime.us" site_id="Plex/es#643054b1fc3be59477853717-66840253cd6f1d394094114f">Runtime (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="RVTV.us" site_id="144407">RVTV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RyanandFriends.us" site_id="Plex/au#697140a85d851f5e69414688-5f91c4ea96a391002df9a664">Ryan and Friends (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SamsungWildlife.us" site_id="SamsungTVPlus/us#USBA3000043LH">Samsung Wildlife (720p) [Geo-blocked]</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="SchwabNetwork.us" site_id="36454">Schwab Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ScrippsNews.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211">Scripps News (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SECNetwork.us" site_id="9233008517">SEC Network (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ShoutFactoryTV.us" site_id="111132">Shout! Factory TV (1080p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Showtime.us" site_id="9200016599">Showtime (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="ShowtimeFamilyZone.us" site_id="us#69049896/showtime-familyzone-east">Showtime Family Zone (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="SlopesTV.us" site_id="42167">Slopes TV (720p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="SmartLifeStyleTV.us" site_id="88293">Smart LifeStyle TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SmithsonianChannelSelects.us" site_id="PlutoTV/us#5f21ea08007a49000762d349">Smithsonian Channel Selects (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SNLVault.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34">SNL Vault (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SonicTV.us" site_id="Plex/au#697140a85d851f5e69414688-62ba4aaff663580a7238f327">Sonic TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SpikeOutdoors.us" site_id="PlutoTV/us#5c393cad2de254456f7ef8c2">Spike Outdoors</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SpikePlutoTV.us" site_id="PlutoTV/us#5812bcc8237a6ff45d16c407">Spike Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SportsGrid.us" site_id="Plex/au#697140a85d851f5e69414688-5ef11485d33ab9004048a1ca">SportsGrid (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Stadium.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92">Stadium (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="StarTrek.us" site_id="PlutoTV/us#5efbd39f8c4ce900075d7698">Star Trek US</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="StarzCinema.us" site_id="us#69047892/starz-cinema-east">Starz Cinema (720p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="StarzComedy.us" site_id="us#69023898/starz-comedy-east">Starz Comedy (1080p)</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="StarzEdge.us" site_id="us#69023464/starz-edge-east">Starz Edge (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzKidsFamily.us" site_id="9200006977">Starz Kids &amp; Family (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="StingrayGreatestHolidayHits.us" site_id="Plex/au#697140a85d851f5e69414688-61aa97d4113e1e5137fd5325">Stingray Greatest Holiday Hits</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="StoriesbyAMC.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba">Stories by AMC</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SuperSimpleSongs.us" site_id="Roku/all#9aff620ece2457a3a7572886ecae0495">Super Simple Songs (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Survivor.us" site_id="PlutoTV/us#5f21e7b24744c60007c1f6fc">Survivor (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SwerveSports.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902">Swerve Sports (720p)</channel>
+  <channel site="taiwanplus.com" lang="en" xmltv_id="TaiwanPlusTV.tw" site_id="#">Taiwan Plus TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Tastemade.us" site_id="Plex/au#697140a85d851f5e69414688-65cd52e626388de8e0b08273">Tastemade (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TastemadeTravel.us" site_id="Roku/all#95a0b94ff13a4dc14fea6e9eb47ecf09">Tastemade Travel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TED.us" site_id="Plex/au#697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487">TED (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TeenMom.us" site_id="PlutoTV/gb#62d550d81054990007db7798">Teen Mom (United States)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TeenNick.us" site_id="9200006974">TeenNick (United States) (576p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TennisChannel.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18">Tennis Channel (1080p)</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="TerraMaterWILD.de" site_id="931186243466302960">Terra Mater WILD English (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TGJunior.us" site_id="Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8">TG Junior (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAddamsFamily.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-689fb7110a486aeba3c7917c">The Addams Family</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAmazingRace.us" site_id="PlutoTV/us#5f21e8a6e2f12b000755afdb">The Amazing Race</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAndyGriffithShow.us" site_id="PlutoTV/us#60f75178e7f8aa0007e9c259">The Andy Griffith Show</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAsylum.us" site_id="Roku/all#7e202ec14b17515a8e732f662aec155d">The Asylum (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheBobRossChannel.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88">The Bob Ross Channel (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheCarolBurnettShow.us" site_id="Plex/au#697140a85d851f5e69414688-60d4edd6b2fdec002c141125">The Carol Burnett Show (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheChallenge.us" site_id="PlutoTV/us#5d48685da7e9f476aa8a1888">The Challenge</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheConners.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6668b7a5e4f56766e556a415">The Conners</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TheCountryNetwork.us" site_id="69639">The Country Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheDesignNetwork.us" site_id="Plex/au#697140a85d851f5e69414688-5f0641d3e8ffda004033b16e">The Design Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheFirstTV.us" site_id="PlutoTV/us#5d486acc34ceb37d3c458a64">The First TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheGrahamNortonShow.uk" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68dcbb869beaa3a402966dba">The Graham Norton Show (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheHillTV.us" site_id="Roku/all#8bfd3a488b59590eb2fa5602c2120168">The Hill TV (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheJamieOliverChannel.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-64b7170c4612b1f48e9ad31e">The Jamie Oliver Channel (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheJudgeJudyChannel.us" site_id="PlutoTV/gb#622f498d119b4c000719c0b7">The Judge Judy Channel (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheLoveBoat.us" site_id="PlutoTV/us#5f7794a788d29000079d2f07">The Love Boat</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheNest.us" site_id="the-nest/14118">The Nest (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheNewDetectives.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-67cbd471cc5136329877e098">The New Detectives (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThePetCollective.us" site_id="Plex/au#697140a85d851f5e69414688-5f170d61b898490041b49369">The Pet Collective (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThePriceIsRight.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63e63d26abacad42ed3d1acd">The Price Is Right</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThePriceIsRightTheBarkerEra.us" site_id="PlutoTV/us#5f7791b8372da90007fd45e6">The Price Is Right: The Barker Era (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheRifleman.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-64f123008d44f2871135a905">The Rifleman</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheWalkingDeadUniverse.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce">The Walking Dead Universe (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThisOldHouse.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-62e3232ca105dea9c400e9fe">This Old House (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThreesCompany.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-66a2dcfa0b91165254efdb42">Three's Company</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TinyHouseNation.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-671bedfa128bc4121f80aeec">Tiny House Nation (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TMZ.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-63e2ca44203bafbef831a152">TMZ (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TODAYAllDay.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd39">TODAY All Day (1080p)</channel>
+  <channel site="toonamiaftermath.com" lang="en" xmltv_id="ToonamiAftermath.us" site_id="Toonami Aftermath EST">Toonami Aftermath (480p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ToonGoggles.us" site_id="Plex/au#697140a85d851f5e69414688-5eea605574085f0040ddc794">ToonGoggles (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Tosh0.us" site_id="PlutoTV/us#5dae084727c8af0009fe40a4">Tosh.0 (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TotallyTurtles.us" site_id="PlutoTV/gb#656ef4af4261ca00083c8f37">Totally Turtles (United States)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TribecaChannel.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60ede94f7da2ef002c55ce9b">Tribeca Channel (1080p) [Geo-blocked]</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TrueCrimeNetwork.us" site_id="91496">True Crime Network (1080p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TrueCrimeNow.us" site_id="Plex/au#697140a85d851f5e69414688-64e43cfe200cd2f67473e0d6">True Crime Now (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="TrueHistory.us" site_id="66893">True History (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TVLandDrama.us" site_id="PlutoTV/us#5d40bebc5e3d2750a2239d7e">TV Land Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TVLandSitcoms.us" site_id="PlutoTV/us#5c2d64ffbdf11b71587184b8">TV Land Sitcoms</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSBoxing.us" site_id="786">TVS Boxing (360p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSCipherNetwork.us" site_id="843">TVS Cipher Network (360p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSClassicMovies.us" site_id="820">TVS Classic Movies (288p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSClassicSports.us" site_id="735">TVS Classic Sports (360p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSComedyNetwork.us" site_id="829">TVS Comedy Network (720p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSDriveInMovie.us" site_id="819">TVS Drive In Movie (360p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSFilmNoirNetwork.us" site_id="842">TVS Film Noir Network (720p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSHiTops.us" site_id="816">TVS Hi Tops (720p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSHollywoodHistory.us" site_id="823">TVS Hollywood History (582p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSMainstreet.us" site_id="799">TVS Mainstreet (360p) [Not 24/7]</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSNostalgia.us" site_id="797">TVS Nostalgia (472p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSNostalgiaMovies.us" site_id="822">TVS Nostalgia Movies (480p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSPinballNetwork.us" site_id="837">TVS Pinball Network (480p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSQuizShowNetwork.us" site_id="830">TVS Quiz Show Network (720p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSSelectNetwork.us" site_id="827">TVS Select Network (720p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTallyHo.us" site_id="826">TVS Tally Ho (360p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTavern.us" site_id="795">TVS Tavern (480p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTurbo.us" site_id="793">TVS Turbo (360p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSWesternMovie.us" site_id="821">TVS Western Movie (270p)</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSWomenSports.us" site_id="798">TVS Women Sports (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Unbeaten.us" site_id="Plex/au#697140a85d851f5e69414688-67f45ef989089d917e1b1634">Unbeaten (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Unidentified.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f">Unidentified (1080p)</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="UniversalComedy.us" site_id="universal_comedy">like Gecko) Chrome/124.0.0.0 Safari/537.36&quot; group-title=&quot;Comedy;Movies;Series&quot;,Universal Comedy (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="UniversalCrime.us" site_id="PlutoTV/us#6549341853fc9700083901ac">like Gecko) Chrome/124.0.0.0 Safari/537.36&quot; group-title=&quot;Series&quot;,Universal Crime (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="UnsolvedMysteries.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5816">Unsolved Mysteries (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="USANetwork.us" site_id="9233004106">USA Network (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="USATODAY.us" site_id="Flash/epg#usa-today">USA TODAY (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo2K.us" site_id="PlutoTV/us#5fd7bca3e0a4ee0007a38e8c">Vevo 2K (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo70s.us" site_id="PlutoTV/us#5f32f26bcd8aea00071240e5">Vevo '70s (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo80s.us" site_id="PlutoTV/us#5fd7b8bf927e090007685853">Vevo '80s (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo90s.us" site_id="PlutoTV/us#5fd7bb1f86d94a000796e2c2">Vevo '90s (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoCountry.us" site_id="PlutoTV/us#5da0d75e84830900098a1ea0">Vevo Country (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoHipHop.us" site_id="Roku/all#8dc44c8fdea45f039c68f75bda233850">Vevo Hip Hop (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoPop.us" site_id="PlutoTV/us#5d93b635b43dd1a399b39eee">Vevo Pop (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoRB.us" site_id="PlutoTV/us#5da0d83f66c9700009b96d0e">Vevo R&amp;B (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoRetroRock.us" site_id="PlutoTV/us#61d4b38226b8a50007fe03a6">Vevo Retro Rock (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoTrueSchoolHipHop.us" site_id="PlutoTV/us#61d4c2817a823d00070ba53e">Vevo True School Hip-Hop</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="VH1.us" site_id="9233000037">VH1 (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VICETV.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-62c47062085f5c338b9c6360">VICE TV (1080p)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="VSiN.us" site_id="108970">VSiN (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WantedDeadorAlive.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61ddcc6023daf618ed44c29f">Wanted: Dead or Alive (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WatchitKID.us" site_id="Plex/au#697140a85d851f5e69414688-621672612c2627c068e73ad6">Watch it KID! (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="WatchitScream.us" site_id="42168">Watch it Scream! (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WaypointTV.us" site_id="Plex/au#697140a85d851f5e69414688-5fd115b8b7ef8d002dcf1817">Waypoint TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WBTV641.us" site_id="Roku/all#bf7ee95e6a905222a1d24174120cc106">WBTV 64.1 (720p)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="WeTV.us" site_id="9200018188">We TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WeatherNation.us" site_id="Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35">WeatherNation (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WeatherSpy.us" site_id="Plex/au#697140a85d851f5e69414688-5f0ff266d71dcb00449ec030">WeatherSpy (United States) (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WeedsNurseJackie.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-66915d35086cb6d46eae12c8">Weeds &amp; Nurse Jackie (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WesternTV.us" site_id="PlutoTV/us#5e8df4bc16e34700077e77d3">Western TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WildNOut.us" site_id="PlutoTV/us#5d48678d34ceb37d3c458a55">Wild 'N Out</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Willow.us" site_id="68605">Willow (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WillowSports.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-66fbf9cf128ab3f65b259bcb">Willow Sports (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="WineWatchesWhiskey.us" site_id="144408">Wine Watches &amp; Whiskey (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WipeoutXtra.us" site_id="Plex/au#697140a85d851f5e69414688-6515fb621fc969615e69d16e">Wipeout Xtra (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Wired2FishTV.us" site_id="Plex/au#697140a85d851f5e69414688-608a2c722957c9002c6a617b">Wired2FishTV (720p) [Geo-blocked]</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WomensSportsNetwork.us" site_id="Plex/au#697140a85d851f5e69414688-630fa9e577ec3866def38fa2">Women's Sports Network (1080p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WorldChannel.us" site_id="pbs-world/10214">World Channel (1080p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="WorldPokerTour.us" site_id="37684">World Poker Tour (1080p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPLG101.us" site_id="abc-wplg-miami-fl-hd/5722">WPLG 10.1 (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WuTangCollection.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5eea605474085f0040ddc770">Wu Tang Collection (720p)</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="XFCTV.us" site_id="51671">XFC TV (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITE90sThrowback.us" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3">XITE 90's Throwback (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITEClassicCountry.nl" site_id="Plex/ca#647f8d22a2fc3fadb4721685-688d399a8ceaa3681d9425d3">XITE Classic Country (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITEJustChill.nl" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6889467267ddc0ef2cdbf4ff">XITE Just Chill (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITEReggaeVibes.nl" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68800f0c4033a6a442ad923d">XITE Reggae Vibes (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITERockxMetal.nl" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68800806996f1a2fb393a6e5">XITE Rock x Metal (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XploreTV.us" site_id="Roku/all#f230a0c3f7ba5804b42d88f5d3c20002">Xplore TV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="YahooFinance.us" site_id="Plex/au#697140a85d851f5e69414688-5f170f01b898490041b49dd1">Yahoo! Finance (1080p)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="YesNetwork.us" site_id="yes-network/1953">Yes Network (720p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="YoMTV.us" site_id="PlutoTV/us#5d14fc31252d35decbc4080b">Yo! MTV (1080p)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="YuGiOh.us" site_id="Plex/us#5e20b730f2f8d5003d739db7-6617f52f0049fcb8e2b0d5b8">Yu-Gi-Oh! (1080p)</channel>
+</channels>
